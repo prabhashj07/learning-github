@@ -2,16 +2,6 @@
 
 Welcome to the Learning GitHub repository! This repository provides step-by-step guides and resources to help you learn Git and GitHub effectively.
 
-## Table of Contents
-
-- [Getting Started](01_getting_started/)
-- [Basic Commands](02_basic_commands/)
-- [Branching and Merging](03_branching_and_merging/)
-- [Collaboration](04_collaboration/)
-- [Advanced Topics](05_advanced_topics/)
-- [Best Practices](06_best_practices/)
-- [Resources](07_resources/)
-
 Navigate through the folders to explore each topic and learn at your own pace.
 
 ## How to Use This Repository
