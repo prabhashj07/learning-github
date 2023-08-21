@@ -8,7 +8,7 @@ Git submodules allow you to include another Git repository within your own repos
 
 2. **Add Submodule**: Run the following command, replacing `repository-url` with the URL of the repository you want to add:
 
-   'git submodule add repository-url path-to-directory'
+   `git submodule add repository-url path-to-directory`
 
 - `path-to-directory` is the directory where the submodule will be placed.
 
@@ -18,14 +18,14 @@ Git submodules allow you to include another Git repository within your own repos
 
 2. **Update**: To update submodules, use:
 
-   'git submodule update --remote'
+   `git submodule update --remote`
 
 
 ## Cloning Repositories with Submodules
 
 1. **Clone Repository**: When you clone a repository with submodules, you can use:
 
-   'git clone --recursive repository-url'
+   `git clone --recursive repository-url`
 
 Alternatively, after cloning without `--recursive`, use `git submodule update --init` to fetch submodules.
 
