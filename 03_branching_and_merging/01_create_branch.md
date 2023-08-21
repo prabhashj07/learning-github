@@ -8,4 +8,5 @@ Replace `new-branch-name` with your desired branch name.
 3. Your workspace is now on the new branch. You can start making changes specific to this branch.
 
 Remember to switch back to the original branch using `git checkout` when you're done with your work on the new branch.
-'git checkout -b new-branch-name'
+
+`git checkout -b new-branch-name`
