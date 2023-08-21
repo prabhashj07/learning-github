@@ -2,5 +2,5 @@
 
 Display the commit history along with relevant details: 
   
-  ' git log '
+  `git log `
 
